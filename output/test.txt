@@ -1,0 +1,210 @@
+Type: Journal Paper
+DOI: https://doi.org/10.1145/3606017
+Title: Privacy and Fairness in Federated Learning: On the Perspective of Tradeoff.
+Authors: Huiqiang Chen, Tianqing Zhu, Tao Zhang, Wanlei Zhou, Philip S. Yu
+Year: 2024
+Journal: ACM Comput. Surv.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1145/3603620
+Title: Machine Unlearning: A Survey.
+Authors: Heng Xu, Tianqing Zhu, Lefeng Zhang, Wanlei Zhou, Philip S. Yu
+Year: 2024
+Journal: ACM Comput. Surv.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.patcog.2023.109917
+Title: Robust multi-agent reinforcement learning via Bayesian distributional value estimation.
+Authors: Xinqi Du, Hechang Chen, Che Wang, Yongheng Xing, Jielong Yang, Philip S. Yu, Yi Chang, Lifang He
+Year: 2024
+Journal: Pattern Recognit.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1145/3597935
+Title: HUSP-SP: Faster Utility Mining on Sequence Data.
+Authors: Chunkai Zhang, Yuting Yang, Zilin Du, Wensheng Gan, Philip S. Yu
+Year: 2024
+Journal: ACM Trans. Knowl. Discov. Data
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1109/TKDE.2023.3282914
+Title: Hierarchical Alignment With Polar Contrastive Learning for Next-Basket Recommendation.
+Authors: Ting-Ting Su, Chang-Dong Wang, Wudong Xi, Jian-Huang Lai, Philip S. Yu
+Year: 2024
+Journal: IEEE Trans. Knowl. Data Eng.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1109/TKDE.2023.3284156
+Title: Spatio-Temporal Joint Graph Convolutional Networks for Traffic Forecasting.
+Authors: Chuanpan Zheng, Xiaoliang Fan, Shirui Pan, Haibing Jin, Zhaopeng Peng, Zonghan Wu, Cheng Wang, Philip S. Yu
+Year: 2024
+Journal: IEEE Trans. Knowl. Data Eng.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.jag.2023.103410
+Title: Carbon dynamics of Western North American boreal forests in response to stand-replacing disturbances.
+Authors: Ling Yu, Lei Fan, Philippe Ciais, Stephen Sitch, Rasmus Fensholt, Xiangming Xiao, Wenping Yuan, Jingming Chen, Yingtong Zhang, Xiaocui Wu, Yuanwei Qin, Mingguo Ma, Zhongbing Chang, Mengjia Wang, Kai Yan, Lisheng Song, Jean-Pierre Wigneron
+Year: 2023
+Journal: Int. J. Appl. Earth Obs. Geoinformation
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1007/s10489-023-04618-0
+Title: Using alignment-free and pattern mining methods for SARS-CoV-2 genome analysis.
+Authors: M. Saqib Nawaz, Philippe Fournier-Viger, Memoona Aslam, Wenjin Li, Yulin He, Xinzheng Niu
+Year: 2023
+Journal: Appl. Intell.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1515/auto-2023-0060
+Title: Minimally invasive in situ bioprinting using tube-based material transfer.
+Authors: Yukiko Tomooka, Dominic Spothelfer, Anna Puiggali-Jou, Céline Tourbier, Esma Bahar Tankus, Florian M. Thieringer, Philippe C. Cattin, Georg Rauter, Manuela Eugster
+Year: 2023
+Journal: Autom.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1093/bib/bbad235
+Title: Comprehensive evaluation of deep and graph learning on drug-drug interactions prediction.
+Authors: Xuan Lin, Lichang Dai, Yafang Zhou, Zu-Guo Yu, Wen Zhang, Jian-Yu Shi, Dong-Sheng Cao, Li Zeng, Haowen Chen, Bosheng Song, Philip S. Yu, Xiangxiang Zeng
+Year: 2023
+Journal: Briefings Bioinform.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1093/bib/bbad422
+Title: From intuition to AI: evolution of small molecule representations in drug discovery.
+Authors: Miles McGibbon, Steven R. Shave, Jie Dong, Yumiao Gao, Douglas R. Houston, Jiancong Xie, Yuedong Yang, Philippe Schwaller, Vincent Blay
+Year: 2023
+Journal: Briefings Bioinform.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1049/cit2.12100
+Title: Observation points classifier ensemble for high-dimensional imbalanced classification.
+Authors: Yulin He, Xu Li, Philippe Fournier-Viger, Joshua Zhexue Huang, Mianjie Li, Salman Salloum
+Year: 2023
+Journal: CAAI Trans. Intell. Technol.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.compbiomed.2023.106814
+Title: PSAC-PDB: Analysis and classification of protein structures.
+Authors: M. Saqib Nawaz, Philippe Fournier-Viger, Yulin He, Qin Zhang
+Year: 2023
+Journal: Comput. Biol. Medicine
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1109/MCOMSTD.0009.2100046
+Title: IEEE 802.19.3 Coexistence Recommendations for IEEE 802.11 and IEEE 802.15.4 Based Systems Operating in SUB-1 GHz Frequency Bands.
+Authors: Jianlin Guo, Yukimasa Nagai, Benjamin A. Rolfe, Takenori Sumi, Philip V. Orlik, Joerg Robert, Kazuto Yano, Steve Shellhammer, Shoichi Kitazawa, Yasuhiko Inoue, Tuncer Baykas
+Year: 2023
+Journal: IEEE Commun. Stand. Mag.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1145/3547330
+Title: Adversarial Attacks and Defenses in Deep Learning: From a Perspective of Cybersecurity.
+Authors: Shuai Zhou, Chi Liu, Dayong Ye, Tianqing Zhu, Wanlei Zhou, Philip S. Yu
+Year: 2023
+Journal: ACM Comput. Surv.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.ecoinf.2023.102371
+Title: An efficient segmentation method based on semi-supervised learning for seafloor monitoring in Pujada Bay, Philippines.
+Authors: Shulei Wang, Katsunori Mizuno, Shigeru Tabeta, Kei Terayama, Shingo Sakamoto, Yusuke Sugimoto, Kenichi Sugimoto, Hironobu Fukami, Lea A. Jimenez
+Year: 2023
+Journal: Ecol. Informatics
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1140/epjds/s13688-023-00398-2
+Title: Leveraging WiFi network logs to infer student collocation and its relationship with academic performance.
+Authors: Vedant Das Swain, HyeokHyen Kwon, Sonia Sargolzaei, Bahador Saket, Mehrab Bin Morshed, Kathy Tran, Devashru Patel, Yexin Tian, Joshua Philipose, Yulai Cui, Thomas Plötz, Munmun De Choudhury, Gregory D. Abowd
+Year: 2023
+Journal: EPJ Data Sci.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.eswa.2022.118923
+Title: Forest based on Interval Transformation (FIT): A time series classifier with adaptive features.
+Authors: Guiling Li, Shaolin Xu, Senzhang Wang, Philip S. Yu
+Year: 2023
+Journal: Expert Syst. Appl.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1007/s11263-023-01758-1
+Title: PhysFormer++: Facial Video-Based Physiological Measurement with SlowFast Temporal Difference Transformer.
+Authors: Zitong Yu, Yuming Shen, Jingang Shi, Hengshuang Zhao, Yawen Cui, Jiehua Zhang, Philip H. S. Torr, Guoying Zhao
+Year: 2023
+Journal: Int. J. Comput. Vis.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1007/s41060-022-00378-1
+Title: Recent advances in domain-driven data mining.
+Authors: Chuanren Liu, Ehsan Fakharizadi, Tong Xu, Philip S. Yu
+Year: 2023
+Journal: Int. J. Data Sci. Anal.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.ijhcs.2023.103121
+Title: Graphical features of interactive dashboards have little influence on engineering students performing a design task.
+Authors: Steven Hoffenson, Cory Philippe, Zuting Chen, Christian Barrientos, Zhongyuan Yu, Brian Chell, Mark R. Blackburn
+Year: 2023
+Journal: Int. J. Hum. Comput. Stud.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.neucom.2023.01.058
+Title: DC-FUDA: Improving deep clustering via fully unsupervised domain adaptation.
+Authors: Zhimeng Yang, Yazhou Ren, Zirui Wu, Ming Zeng, Jie Xu, Yang Yang, Xiaorong Pu, Philip S. Yu, Lifang He
+Year: 2023
+Journal: Neurocomputing
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.neucom.2023.02.045
+Title: SOR-TC: Self-attentive octave ResNet with temporal consistency for compressed video action recognition.
+Authors: Junsan Zhang, Xiaomin Wang, Yao Wan, Leiquan Wang, Jian Wang, Philip S. Yu
+Year: 2023
+Journal: Neurocomputing
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1109/JIOT.2023.3247594
+Title: Internet of Behaviors: A Survey.
+Authors: Jiayi Sun, Wensheng Gan, Han-Chieh Chao, Philip S. Yu, Weiping Ding
+Year: 2023
+Journal: IEEE Internet Things J.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.ins.2023.01.002
+Title: Privacy-preserving federated mining of frequent itemsets.
+Authors: Yao Chen, Wensheng Gan, Yongdong Wu, Philip S. Yu
+Year: 2023
+Journal: Inf. Sci.
+--------------------
+Type: Journal Paper
+DOI: http://jmlr.org/papers/v24/22-1021.html
+Title: MultiZoo and MultiBench: A Standardized Toolkit for Multimodal Deep Learning.
+Authors: Paul Pu Liang, Yiwei Lyu, Xiang Fan, Arav Agarwal, Yun Cheng, Louis-Philippe Morency, Ruslan Salakhutdinov
+Year: 2023
+Journal: J. Mach. Learn. Res.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1007/s10115-022-01811-4
+Title: Adaptive curvature exploration geometric graph neural network.
+Authors: Xingcheng Fu, Jianxin Li, Jia Wu, Jiawen Qin, Qingyun Sun, Cheng Ji, Senzhang Wang, Hao Peng, Philip S. Yu
+Year: 2023
+Journal: Knowl. Inf. Syst.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1007/s10115-022-01738-w
+Title: Fairness in graph-based semi-supervised learning.
+Authors: Tao Zhang, Tianqing Zhu, Mengde Han, Fengwen Chen, Jing Li, Wanlei Zhou, Philip S. Yu
+Year: 2023
+Journal: Knowl. Inf. Syst.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.knosys.2023.111076
+Title: Privacy and evolutionary cooperation in neural-network-based game theory.
+Authors: Zishuo Cheng, Tianqing Zhu, Congcong Zhu, Dayong Ye, Wanlei Zhou, Philip S. Yu
+Year: 2023
+Journal: Knowl. Based Syst.
+--------------------
+Type: Journal Paper
+DOI: https://doi.org/10.1016/j.knosys.2023.110417
+Title: CIFair: Constructing continuous domains of invariant features for image fair classifications.
+Authors: Huan Tian, Bo Liu, Tianqing Zhu, Wanlei Zhou, Philip S. Yu
+Year: 2023
+Journal: Knowl. Based Syst.
+--------------------
